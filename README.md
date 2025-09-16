@@ -5,7 +5,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Izaak-Grinner)](https://github.com/anuraghazra/github-readme-stats)
 ## );
 
-## Learning Languages
+## Learning Languages 🌱
 
 [![Programming Languages](https://skillicons.dev/icons?i=js,react,vite,rust)](https://skillicons.dev)
 いつかcommandする。
