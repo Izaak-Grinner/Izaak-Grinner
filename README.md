@@ -1,8 +1,13 @@
-## Hi there 👋
+## 自己紹介 👋
+浪人中のハシビロです。
 
 ## const [MyState,SetMyState]=(
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Izaak-Grinner)](https://github.com/anuraghazra/github-readme-stats)
 ## );
+
+## LearningLanguages
+
+[![Programming Languages](https://skillicons.dev/icons?i=js,react,rust)](https://skillicons.dev)
 
 <!--
 **Izaak-Grinner/Izaak-Grinner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
