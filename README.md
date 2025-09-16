@@ -7,7 +7,7 @@
 
 ## Learning Languages
 
-[![Programming Languages](https://skillicons.dev/icons?i=js,react,rust)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=js,react,vite,rust)](https://skillicons.dev)
 いつかcommandする。
 
 <!--
