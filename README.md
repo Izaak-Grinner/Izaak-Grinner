@@ -10,6 +10,9 @@
 [![Programming Languages](https://skillicons.dev/icons?i=js,react,vite,rust)](https://skillicons.dev)
 いつかcommandする。
 
+## SNS
+- note::https://note.com/chic_mink3441
+
 <!--
 **Izaak-Grinner/Izaak-Grinner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
