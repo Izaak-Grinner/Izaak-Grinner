@@ -5,9 +5,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Izaak-Grinner)](https://github.com/anuraghazra/github-readme-stats)
 ## );
 
-## LearningLanguages
+## Learning Languages
 
 [![Programming Languages](https://skillicons.dev/icons?i=js,react,rust)](https://skillicons.dev)
+いつかcommandする。
 
 <!--
 **Izaak-Grinner/Izaak-Grinner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
